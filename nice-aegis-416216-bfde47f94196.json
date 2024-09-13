@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "nice-aegis-416216",
+  "private_key_id": "bfde47f94196067a457ccf1da2bd9d82a5f857d3",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDEV66DIF6B8bLh\nejvsAORMQjlr+dwtTqwFQdwBpUbEeWyIRLldYKg7+F0uBC0lCypXjOuz+0MUZqqI\nuMdy2eSoAboDIhR3Q+T600H/+cVabqQl+LMerTHLHmLKWgpV2UTYbNmKf7/i35B1\nGUlOBBP8Jnz/bFe0r6Sxj6QD/zY9TGIlYSIQxzSGFvV+lD9yAmhqFlAcWHdA3fo5\nj3wsTA/VpyXa7BGAu+zPrwBOj0W+TKcEPDnFlY8E7U0hfJcXA5Woe6SHyl67Dgvu\nQWCLbN0ZZrUznl8IXzbjCXXGxGtFZBS5eLFn/n31bw6euyGC5gGcotjXgAiK2O6R\nlxWu4SWdAgMBAAECggEAAYBvLgMRHfrQhK935lvyYw/tmwEP+Uu8/pRMn7mZIzcP\niLJH3ao31y+U3N18z+f4NK+3/Moq7uzDGKUbJ2p5uHw85Tm9QNVE2tNDUbciFok6\nmay/h/hIpXZPyJ7sLdBp2aLpfgjwmYZetzqQiDd5RKgxtA1q1U+zmYUQ+tPYoRrh\nRd8ZLLVPwMUePFMojS2upXUFV1NLCOS2iWp3su+ARTXoBYBjrOXrfy5j3yHhGdUI\nuVNpk4jZP7xDTlEGxbNNCQ0rKSPxHz82QkPqQITe1buyQArYFJ9E5dtjomVb95C+\np9Z/3y0R5xKIX0xGKQ08OTEfXQ6tWh/YUny9ZtYduQKBgQDnnfnMUjnfnbMA7jhS\nLmJeYfUeZKbnMyBCl8vWAUsFYId+RwqJ3e50G1LYWdudk/gItntIoyNfbH2JpsBH\ngNMPRTjLGjpO75eFZh98XJ2TKRnbKtL+kEN6tdes+g9/9mQitntSXsehf4uKrzzW\nVxULcVhNNZXxAtO4/u2MImoKGQKBgQDZAxB9Cod6Z3+owCpzKC6e1h7/vsZyNXNx\nV3OpiYNs60QNg5VXeyxDqlS5PsGVKRzLEEUDjDQ+XQ8Wjx9YiUGkNnf73yVxHmmg\ndmxytVKeicGwKS1fdwk2DBswdWBWN0VKc8fEEcx2f6Ag0GRlTplHqqrqiP7zPmAl\nMA+caBEwJQKBgGyF3Yw5nrpC1qOB+suuxhJ5DXO/L2C22M+69hwAoRkU4IdvW+W7\nIcYvI0MR30/XC+lxLxSas7E7URrVEdSu7LWD9pdbY6SmqDUt42TOtFpGcMH7L79s\n8uElILgAtpB7bvHA1MmEdT8bVtOVRgkb5lVlNz199RJnA7LzZ3Q4j7zJAoGAGEqn\nhdev4pvDRnh8R/evgEgnoCkSvaYODhnj8I5cD80mCP05slkvU0O1yCamNLQtbO2d\nTBBdqL1x+ux6bcavelo+hAsufcMRv8yBxzVU0jpJXBa/5XfFqC8ivAHnjr8RGoxr\nSB9V683Ndt7c3ho2Pjd0elxrbX8F9CO1G6Tqh6ECgYBUNcXwbA8owiIkTkWwyAXI\n5442zG8De5OJTvcHycdOLrvGtDFrQWUAzlaZQWDs5+91ZtQO4WrnuxX1YZZBwFC/\nXF+hpcZ49hPRKPTDGUcOH6XKF27FyxP/at+x3GU0zOwhA2ZmwifH69eraXM4lvvy\n+5lVlo9Of/uwRwcIaYl+bA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "grt-test@nice-aegis-416216.iam.gserviceaccount.com",
+  "client_id": "116517546763308157259",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/grt-test%40nice-aegis-416216.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
